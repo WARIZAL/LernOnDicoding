@@ -9,4 +9,11 @@ Belajar git Dengan Github Dasar : Progres (38%)
   * Mengenal git workflow. 
   * Membuat repositori baru dan edit redmi sampai Release projek.
   * Praktik Menggunakan format MarkDown pada READMI.md Github
+  
+  
+***17:21 WITA***
+***14Maret 2023***
+Belajar git Dengan Github Dasar : Progres (42%)
 
+ * Studi Kasus Pengalaman Belajar 
+ * dll
