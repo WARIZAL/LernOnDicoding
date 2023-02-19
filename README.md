@@ -5,8 +5,8 @@ Repository ini Berisi Tentang Pengalaman Belajar di Dicoding
 ==
 Belajar git Dengan Github Dasar : Progres ( 38% )
 --
-  *Mengenal dan pamiliar Dengan git dan github 
-  *explorasi proyek github
-  *Mengenal git workflow 
-  *Membuat repositori baru dan edit redmi sampai Release projek
+-Mengenal dan pamiliar Dengan git dan github 
+-explorasi proyek github
+-Mengenal git workflow 
+-Membuat repositori baru dan edit redmi sampai Release projek
 
